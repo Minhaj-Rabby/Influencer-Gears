@@ -250,6 +250,9 @@ footer{
     .Section-details h1{
     font-size: 24px;
     }
+    .camera-banner:hover img{
+    transform: rotate(45deg) scale(1.1) translate(15px, -40px);
+}
     
     .camera-banner{
         order: 1;
